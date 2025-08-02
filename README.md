@@ -1,21 +1,21 @@
-# 🎮 Luana — Programadora de Plugins Minecraft  
+#  Luana — Programadora de Plugins Minecraft  
 **Desenvolvedora Java especializada em plugins para servidores Spigot/PaperMC**  
 📍 Brasil • 💻 Desde 2023 • ✉️ jkgairs@gmail.com
 
 ---
 
-## 🧩 Sobre mim  
+##  Sobre mim  
 Sou desenvolvedora com foco em plugins personalizados para servidores de Minecraft (versões 1.8 a 1.20), criando sistemas únicos que tornam cada gameplay mais divertida, competitiva ou imersiva. Domino Java, Spigot API, Paper API e tenho experiência com configurações otimizadas, sistemas PvP e minigames. 
 
 ---
 
-## 💼 Serviços oferecidos
-- 🔧 Criação de plugins do zero (PvP, minigames, economia, etc.)
-- ✨ Efeitos visuais (partículas, sons, animações)
-- 🛠️ Sistemas customizados (itens, habilidades, cooldowns)
-- 🧪 Testes e balanceamento
-- ⚙️ Compatibilidade com versões 1.8.8 até 1.20+
-- 🗂️ Configuração de arquivos `config.yml`, `messages.yml`, etc.
+##  Serviços oferecidos
+-  Criação de plugins do zero (PvP, minigames, economia, etc.)
+-  Efeitos visuais (partículas, sons, animações)
+-  Sistemas customizados (itens, habilidades, cooldowns)
+-  Testes e balanceamento
+-  Compatibilidade com versões 1.8.8 até 1.20+
+-  Configuração de arquivos `config.yml`, `messages.yml`, etc.
 
 ---
 
@@ -31,7 +31,7 @@ Um plugin leve e responsivo que adiciona um Estilingue com impulso, para MushMC.
 
 ---
 
-### 🧊 Congelamento Tático  
+###  Congelamento Tático  
 Projétil que congela inimigos por 0.2 segundos ao atingir o alvo.  
 **Funções:**  
 - Sistema de detecção de colisão  
@@ -40,7 +40,7 @@ Projétil que congela inimigos por 0.2 segundos ao atingir o alvo.
 
 ---
 
-### 🛡️ Sistema de Habilidades Customizadas  
+###  Sistema de Habilidades Customizadas  
 Cada jogador pode ativar uma habilidade única com efeitos e cooldown próprios.  
 **Inclui:**  
 - Menu com `InventoryClickEvent`  
@@ -49,13 +49,13 @@ Cada jogador pode ativar uma habilidade única com efeitos e cooldown próprios.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
-- ☕ Java (Spigot & Paper APIs)  
-- 🧱 Minecraft Server (1.8 - 1.20+)  
-- ⚙️ IntelliJ IDEA / Eclipse  
-- 📂 GitHub & Versionamento  (básico)
-- 🧪 Testes em servidores locais  
-- 🔄 ProtocolLib, NMS (básico)
+##  Tecnologias & Ferramentas  
+-  Java (Spigot & Paper APIs)  
+-  Minecraft Server (1.8 - 1.20+)  
+-  IntelliJ IDEA / Eclipse  
+-  GitHub & Versionamento  (básico)
+-  Testes em servidores locais  
+-  ProtocolLib, NMS (básico)
 
 ---
 
