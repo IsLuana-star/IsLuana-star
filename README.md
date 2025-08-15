@@ -1,69 +1,48 @@
-#  Luana — Programadora de Plugins Minecraft  
-**Desenvolvedora Java especializada em plugins para servidores Spigot/PaperMC**  
-📍 Brasil • 💻 Desde 2023 • ✉️ jkgairs@gmail.com
+# 🎨 Luana – Artista & Ilustradora de Games
+
+Sou artista digital especializada em **concept art**, **pixel art** e **design visual para jogos**, com experiência em títulos de grande alcance no mercado. Minha missão é criar **mundos envolventes**, **personagens memoráveis** e **artes que transmitam emoção**, sempre com atenção à narrativa e à jogabilidade.
 
 ---
 
-##  Sobre mim  
-Sou desenvolvedora com foco em plugins personalizados para servidores de Minecraft (versões 1.8 a 1.20), criando sistemas únicos que tornam cada gameplay mais divertida, competitiva ou imersiva. Domino Java, Spigot API, Paper API e tenho experiência com configurações otimizadas, sistemas PvP e minigames. 
+## 🕹️ Experiência em Jogos
+
+* **Hollow Knight** – Ilustração Promocional e Assets In-Game
+* **Celeste** – Pixel Art e Cenários
 
 ---
 
-##  Serviços oferecidos
--  Criação de plugins do zero (PvP, minigames, economia, etc.)
--  Efeitos visuais (partículas, sons, animações)
--  Sistemas customizados (itens, habilidades, cooldowns)
--  Testes e balanceamento
--  Compatibilidade com versões 1.8.8 até 1.20+
--  Configuração de arquivos `config.yml`, `messages.yml`, etc.
+## 🖌️ Habilidades
+
+* Concept Art (personagens, cenários e criaturas)
+* Pixel Art e Arte 2D
+* Ilustração Promocional
+* Design de UI/UX para jogos
+* Criação de Spritesheets e Animações 2D
 
 ---
 
-## 🧪 Plugins em destaque
+## 🛠️ Ferramentas
 
-### 🔥 Estilingue (No MushMC)  
-Um plugin leve e responsivo que adiciona um Estilingue com impulso, para MushMC.  
-**Versão:** Spigot 1.8.8  
-**Funções:**  
-- Partículas de fogo  
-- Cooldown configurável  
-- Knockback com precisão  
+* Photoshop
+* Clip Studio Paint
+* Aseprite
+* Illustrator
+* Procreate
 
 ---
 
-###  Congelamento Tático  
-Projétil que congela inimigos por 0.2 segundos ao atingir o alvo.  
-**Funções:**  
-- Sistema de detecção de colisão  
-- Partículas de gelo  
-- Cooldown visual com bossbar  
+## 📂 Portfólio Visual
+
+| Projeto       | Imagem | Descrição                               |   |   |
+| ------------- | ------ | --------------------------------------- | - | - |
+| Hollow Knight |        | Ilustração promocional e assets in-game |   |   |
+| Celeste       |        | Pixel art e cenários                    |   |   |
+|               |        |                                         |   |   |
 
 ---
 
-###  Sistema de Habilidades Customizadas  
-Cada jogador pode ativar uma habilidade única com efeitos e cooldown próprios.  
-**Inclui:**  
-- Menu com `InventoryClickEvent`  
-- Itens com lore e efeitos personalizados  
-- Compatível com scoreboard  
+## 📫 Contato
 
----
+* 💌 [cloca4506@gmail.com](mailto:cloca4506@gmail.com)
 
-##  Tecnologias & Ferramentas  
--  Java (Spigot & Paper APIs)  
--  Minecraft Server (1.8 - 1.20+)  
--  IntelliJ IDEA / Eclipse  
--  GitHub & Versionamento  (básico)
--  Testes em servidores locais  
--  ProtocolLib, NMS (básico)
-
----
-
-## 📞 Contato  
-💬 Discord: `buunnyzinha`  
-📧 E-mail: `jkgairs@gmail.com`
-
----
-
-> *“Plugin leve, bem feito e entrega rápida. Recomendo!”*  
-> — Admin do servidor MushMC
+* 
