@@ -1,48 +1,55 @@
-# 🎨 Luana – Artista & Ilustradora de Games
+💻 Portfólio – Luana
+👋 Sobre mim
 
-Sou artista digital especializada em **concept art**, **pixel art** e **design visual para jogos**, com experiência em títulos de grande alcance no mercado. Minha missão é criar **mundos envolventes**, **personagens memoráveis** e **artes que transmitam emoção**, sempre com atenção à narrativa e à jogabilidade.
+Olá! Meu nome é Luana, sou programadora de jogos, aplicativos e desenvolvedora de clients para Minecraft.
+Tenho experiência em desenvolvimento multiplataforma, com foco em performance, experiência do usuário e inovação. Minha paixão é transformar ideias criativas em projetos reais e funcionais.
 
----
+🚀 Experiência
 
-## 🕹️ Experiência em Jogos
+🎮 Celeste (Game Developer)
+Contribuí no desenvolvimento de funcionalidades e otimizações do jogo Celeste, auxiliando em mecânicas de jogabilidade e polimento de código.
 
-* **Hollow Knight** – Ilustração Promocional e Assets In-Game
-* **Celeste** – Pixel Art e Cenários
+🔧 Silent Client (Minecraft Client Developer)
+Trabalhei no desenvolvimento do Silent Client, criando sistemas internos, melhorias de performance e recursos de acessibilidade.
 
----
+🔥 Badlion Client (Minecraft Client Developer)
+Participei da equipe de desenvolvimento do Badlion Client, focando em otimizações gráficas, segurança e suporte a mods integrados.
 
-## 🖌️ Habilidades
+🛠️ Habilidades Técnicas
 
-* Concept Art (personagens, cenários e criaturas)
-* Pixel Art e Arte 2D
-* Ilustração Promocional
-* Design de UI/UX para jogos
-* Criação de Spritesheets e Animações 2D
+Linguagens: Java, C#, Python, JavaScript, C++
 
----
+Game Engines: Unity, Godot, Construct 3
 
-## 🛠️ Ferramentas
+Apps: Android (Java/Kotlin), Web (React/Node.js)
 
-* Photoshop
-* Clip Studio Paint
-* Aseprite
-* Illustrator
-* Procreate
+Minecraft: Spigot/Paper plugins, Client-side Mods (Forge/Fabric), Performance optimization
 
----
+Outros: Git/GitHub, API Integration, UX/UI básica
 
-## 📂 Portfólio Visual
+🌟 Áreas de Atuação
 
-| Projeto       | Imagem | Descrição                               |   |   |
-| ------------- | ------ | --------------------------------------- | - | - |
-| Hollow Knight |        | Ilustração promocional e assets in-game |   |   |
-| Celeste       |        | Pixel art e cenários                    |   |   |
-|               |        |                                         |   |   |
+Desenvolvimento de Jogos → Programação de mecânicas, IA, física e otimização.
 
----
+Aplicativos → Criação de apps desktop, mobile e web.
 
-## 📫 Contato
+Minecraft Clients → Desenvolvimento de clients customizados, mods, sistemas anticheat e otimizações.
 
-* 💌 [cloca4506@gmail.com](mailto:cloca4506@gmail.com)
+📂 Projetos
 
-* 
+🔹 Celeste Contributions – Mecânicas de gameplay e refinamento técnico.
+🔹 Silent Client – Desenvolvimento de sistemas internos para performance.
+🔹 Badlion Client – Otimizações gráficas e suporte para mods.
+🔹 Projetos Indie – Jogos 2D em Unity e Godot, aplicativos multiplataforma e plugins para servidores de Minecraft.
+
+📫 Contato
+
+🌐 Portfólio Online: (https://github.com/IsLuana-star)
+
+
+Gmail: cloca4506@gmail.com
+
+
+📧 E-mail: (coloque seu e-mail)
+
+🐙 GitHub: (link do seu GitHub)
